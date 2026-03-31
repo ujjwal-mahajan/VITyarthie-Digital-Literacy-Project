@@ -20,10 +20,15 @@ and I fully respect whatever decision you make. If it would help, I am happy to 
 Thank you very much for your time and understanding.
 
 Yours sincerely,
+
 Ujjwal Mahajan
+
 25BAI10205
+
 B.Tech CSE AI & ML, Year 1
+
 VIT Bhopal University
+
 info@vitbhopal.ac.in
 
 
@@ -50,8 +55,13 @@ for your reference. Please feel free to contact me at ujjulmahajan@gmail.com or 
 Thank you for taking the time to consider my application. I look forward to hearing from you.
 
 Yours sincerely,
+
 Ujjwal Mahajan
+
 25BAI10205
+
 B.Tech CSE AI and ML, Year 1
+
 VIT Bhopal University
+
 info@vitbhopal.ac.in
