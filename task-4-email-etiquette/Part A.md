@@ -34,6 +34,8 @@ info@vitbhopal.ac.in
 
 
 
+
+
 Email 2 — Write an email from a student to an internship coordinator at a company, expressing interest in a summer internship opportunity.
 
 Subject: Summer Internship Inquiry.
