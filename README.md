@@ -4,11 +4,13 @@ Name: Ujjwal Mahajan
 
 Registration No: 25BAI10205
 
+
 Project Overview:
 
 This repository contains my comprehensive Digital Literacy Portfolio, developed as part of the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I have curated a series of resources and professional profiles designed to demonstrate my ability to navigate the digital world safely, responsibly, and effectively.
 
 The project is organized into five distinct modules, covering everything from visual communication and professional networking to coding collaboration and cybersecurity awareness. Each task serves as a practical application of digital literacy skills essential for a first-year engineering student.
+
 
 Module Summaries:
 
@@ -44,5 +46,6 @@ Objective: To recognize, describe, and provide prevention strategies for modern 
 Case Study: Developed a 200–250 word deep dive into a specific cybercrime, such as Phishing or UPI/Online Payment Fraud, detailing the step-by-step mechanics of the attack.
 Prevention Strategy: Compiled a "Stay Safe Online" checklist featuring 8 actionable tips, including specific advice for financial security in India.
 Resources: Integrated official reporting channels, including the National Cyber Crime Portal and the 1930 Helpline
+
 
 https://docs.google.com/forms/d/e/1FAIpQLSceOWfQH7qvNiW63ar0WbvlvUhfXyz0nwE31RVBhJVqlaftcA/viewform?usp=dialog
