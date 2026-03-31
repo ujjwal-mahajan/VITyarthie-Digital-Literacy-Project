@@ -1,5 +1,8 @@
 # VITyarthie-Digital-Literacy-Project
 
+Name: Ujjwal Mahajan
+Registration No: 25BAI10205
+
 Project Overview:
 
 This repository contains my comprehensive Digital Literacy Portfolio, developed as part of the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I have curated a series of resources and professional profiles designed to demonstrate my ability to navigate the digital world safely, responsibly, and effectively.
